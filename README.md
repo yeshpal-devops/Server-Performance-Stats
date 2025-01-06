@@ -1,4 +1,4 @@
-# Server-Performance-Stats
+![image](https://github.com/user-attachments/assets/7e34dc57-e1b9-4398-a514-d02b22cac4be)# Server-Performance-Stats
 Goal of this project is to write a script to analyze server performance stats
 # Server Performance Stats Script (`server-stats.sh`)
 
@@ -31,20 +31,23 @@ The script provides the following stats:
 ---
 
 ## Usage
+## Usage
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/server-stats.git
-   cd server-stats
-   
-2. Make the script executable:  
-  ```bash
+    ```bash
+    git clone https://github.com/<your-username>/server-stats.git
+    cd server-stats
+    ```
+
+2. Make the script executable:
+    ```bash
     chmod +x server-stats.sh
+    ```
 
 3. Run the script:
-   ```bash
-     ./server-stats.sh
-
-
+    ```bash
+    ./server-stats.sh
+    ```
 
 Sample Output
 
