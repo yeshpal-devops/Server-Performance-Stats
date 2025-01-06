@@ -1,5 +1,5 @@
 # Server-Performance-Stats
-Goal of this project is to write a script to analyse server performance stats
+Goal of this project is to write a script to analyze server performance stats
 # Server Performance Stats Script (`server-stats.sh`)
 
 ## Overview
@@ -43,6 +43,7 @@ The script provides the following stats:
 2. Make the script executable:
  ```bash
 ./server-stats.sh
+
 
 
 Sample Output
