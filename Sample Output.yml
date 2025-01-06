@@ -1,0 +1,19 @@
+CPU Usage: 20.5%
+Memory Usage: 3.2 GB used, 8.8 GB free (26% used)
+Disk Usage: 50 GB used, 150 GB free (25% used)
+
+Top 5 Processes by CPU:
+1. process_name_1 (45.3%)
+2. process_name_2 (30.2%)
+...
+
+Top 5 Processes by Memory:
+1. process_name_1 (2.5 GB)
+2. process_name_2 (1.8 GB)
+...
+
+OS Version: Ubuntu 22.04
+Uptime: 3 days, 4 hours, 23 minutes
+Load Average: 0.54, 0.63, 0.70
+Logged-In Users: 2
+Failed Login Attempts: 5
