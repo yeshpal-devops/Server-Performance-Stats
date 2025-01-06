@@ -34,16 +34,15 @@ The script provides the following stats:
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/server-stats.git
-   cd server-stats  
-
-2. Make the script executable:
-
+   cd server-stats
+   
+2. Make the script executable:  
+  ```bash
    chmod +x server-stats.sh
 
-3. Run the script:
-
- ./server-stats.sh
-
+2. Make the script executable:
+ ```bash
+./server-stats.sh
 
 
 Sample Output
