@@ -38,11 +38,11 @@ The script provides the following stats:
    
 2. Make the script executable:  
   ```bash
-   chmod +x server-stats.sh
+    chmod +x server-stats.sh
 
-2. Make the script executable:
- ```bash
-./server-stats.sh
+3. Run the script:
+   ```bash
+     ./server-stats.sh
 
 
 
@@ -67,4 +67,3 @@ Uptime: 3 days, 4 hours, 23 minutes
 Load Average: 0.54, 0.63, 0.70
 Logged-In Users: 2
 Failed Login Attempts: 5
-
