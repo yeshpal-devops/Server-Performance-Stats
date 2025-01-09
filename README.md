@@ -3,6 +3,8 @@
 ## Overview
 This project provides a simple shell script to analyze server performance stats on any Linux system. The script retrieves key metrics such as CPU usage, memory usage, disk usage, and the top resource-consuming processes, helping system administrators debug and understand server performance.
 
+https://roadmap.sh/projects/server-stats
+
 ---
 
 ## Features
@@ -48,4 +50,4 @@ The script provides the following stats:
     ./server-stats.sh
     ```
 
-https://roadmap.sh/projects/server-stats
+
