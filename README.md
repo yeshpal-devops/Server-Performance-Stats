@@ -47,3 +47,5 @@ The script provides the following stats:
     ```bash
     ./server-stats.sh
     ```
+
+https://roadmap.sh/projects/server-stats
